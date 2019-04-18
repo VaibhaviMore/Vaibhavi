@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!--Home Page-->
+    <url>
+        <loc>https://vaibhavimore.github.io/Vaibhavi/</loc>
+        <lastmod>2019-04-18T05:26:37+00:00</lastmod>
+	    <priority>1.00</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+	<!--Home Page - index link-->
+	<url>
+		<loc>https://vaibhavimore.github.io/Vaibhavi/index.html</loc>
+		<lastmod>2019-04-18T05:26:37+00:00</lastmod>
+		<priority>0.80</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+    <!--About Page-->
+    <url>
+        <loc>https://vaibhavimore.github.io/Vaibhavi/about-us.html</loc>
+        <lastmod>2019-04-18T05:26:37+00:00</lastmod>
+		<priority>0.80</priority>	
+        <changefreq>monthly</changefreq>
+    </url>
+    <!--Portfolio Page-->
+    <url>
+        <loc>https://vaibhavimore.github.io/Vaibhavi/portfolio.html</loc>
+        <lastmod>2019-04-18T05:26:37+00:00</lastmod>
+		<priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <!--Resume Link Page-->
+    <url>
+        <loc>https://vaibhavimore.github.io/Vaibhavi/VaibhaviMore.pdf</loc>
+        <lastmod>2019-04-18T05:26:37+00:00</lastmod>
+		<priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    <!--Contact Page-->
+    <url>
+        <loc>https://vaibhavimore.github.io/Vaibhavi/contact.html</loc>
+        <lastmod>2019-04-18T05:26:37+00:00</lastmod>
+		<priority>0.80</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+</urlset>
