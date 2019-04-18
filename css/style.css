@@ -1,17 +1,6 @@
 /*----------------------------------------------------
 @File: Default Styles
-@Author: SPONDON IT
-
-This file contains the styling for the actual theme, this
-is the file you need to edit to change the look of the
-theme.
 ---------------------------------------------------- */
-/*=====================================================================
-@Template Name: HostHub Construction 
-@Developed By: Naim Lasker
-Author E-mail: naimlasker@gmail.com
-
-=====================================================================*/
 /*----------------------------------------------------*/
 /*font Variables*/
 /*Color Variables*/
@@ -314,7 +303,8 @@ button:focus {
 ============================================================================================ */
 .banner-area .single_slide_banner {
   background-size: cover;
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat; 
+  background: url(../img/banner/banner1.jpg);}
 .banner-area .slide_bg1 {
   background: url(../img/banner/banner-bg1.jpg); }
 .banner-area .slide_bg2 {
